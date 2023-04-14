@@ -1,8 +1,8 @@
 {
     "name": "netzbewegung/nb_default",
     "type": "typo3-cms-extension",
-    "description": "",
-    "license": "",
+    "description": "Test",
+    "license": "GPL-2.0-or-later",
     "require": {
         "typo3/cms-core": "^11.5"
     },
