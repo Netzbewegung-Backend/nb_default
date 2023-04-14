@@ -1,0 +1,19 @@
+{
+    "name": "netzbewegung/nb_default",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "license": "",
+    "require": {
+        "typo3/cms-core": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netzbewegung\\NbDefault\\": "Classes"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "nb_default"
+        }
+    }
+}
